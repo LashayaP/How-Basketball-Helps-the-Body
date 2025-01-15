@@ -2,7 +2,7 @@ body {
   background-color: #a8a7a6;
 }
 
-.sports {
+.basketball {
   display:flex;
   flex-wrap: wrap;
 }
